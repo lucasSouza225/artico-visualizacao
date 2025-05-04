@@ -12,4 +12,3 @@
       sharePopup.classList.add("hidden");
     }
   });
-
